@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lec2_aspnet_core_identity_customization", "Lec2_aspnet_core_identity_customization.csproj", "{AE1FC75F-333E-4D43-9E0C-C067D0BCC768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE1FC75F-333E-4D43-9E0C-C067D0BCC768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1FC75F-333E-4D43-9E0C-C067D0BCC768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1FC75F-333E-4D43-9E0C-C067D0BCC768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1FC75F-333E-4D43-9E0C-C067D0BCC768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5F3ABA-68BC-4182-B806-A9BD64B3E025}
+	EndGlobalSection
+EndGlobal
