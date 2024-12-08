@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|c:\\shuja\\code examples\\asp.net-core-identity\\lec1_asp_net_core_identity\\lec1_asp_net_core_identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|solutionrelative:lec1_asp_net_core_identity.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|c:\\shuja\\code examples\\asp.net-core-identity\\lec1_asp_net_core_identity\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|c:\\shuja\\code examples\\asp.net-core-identity\\lec1_asp_net_core_identity\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|c:\\shuja\\code examples\\asp.net-core-identity\\lec1_asp_net_core_identity\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|solutionrelative:areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|c:\\shuja\\code examples\\asp.net-core-identity\\lec1_asp_net_core_identity\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|c:\\shuja\\code examples\\asp.net-core-identity\\lec1_asp_net_core_identity\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|solutionrelative:areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|c:\\shuja\\code examples\\asp.net-core-identity\\lec1_asp_net_core_identity\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{53E3D8F3-7A20-4CF9-91BD-D9F140E2ED40}|Lec1_Asp_net_core_identity.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:43:21.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:43:13.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:43:10.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:43:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T12:39:51.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lec1_Asp_net_core_identity.csproj",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Lec1_Asp_net_core_identity.csproj",
+              "RelativeDocumentMoniker": "Lec1_Asp_net_core_identity.csproj",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\Lec1_Asp_net_core_identity.csproj",
+              "RelativeToolTip": "Lec1_Asp_net_core_identity.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T12:38:06.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Shuja\\Code Examples\\ASP.NET-Core-Identity\\Lec1_Asp_net_core_identity\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-27T12:41:41.227Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
